@@ -73,3 +73,9 @@ button:hover {
 button:active {
     opacity: 0.6;
 }
+.whats {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+}
